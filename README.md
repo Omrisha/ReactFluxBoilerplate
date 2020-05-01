@@ -10,10 +10,10 @@ Simple boilerpalte for react application using Flux technology with gulp.
 4. run the command:
 > `npm install`
 5. Wait for it to finish and run the command:
-6. 
+> `gulp`
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODMzNzQ3NjEsMTYyNTIwMzMzNl19
+eyJoaXN0b3J5IjpbLTE4MTgzMzM1LDE2MjUyMDMzMzZdfQ==
 -->
