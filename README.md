@@ -5,11 +5,15 @@ Simple boilerpalte for react application using Flux technology with gulp.
 # Instructions
 
 1. Clone the project to your computer.
-2. Open the project in you
-npm install
+2. Open the project in your favorite editor (Atom, Visual Studio Code...)
+3. Open Terminal/ Command Prompt
+4. run the command:
+> `npm install`
+5. Wait for it to finish and run the command:
+6. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQ3NDcyOSwxNjI1MjAzMzM2XX0=
+eyJoaXN0b3J5IjpbLTE0ODMzNzQ3NjEsMTYyNTIwMzMzNl19
 -->
